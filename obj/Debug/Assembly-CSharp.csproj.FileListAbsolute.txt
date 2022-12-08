@@ -1,0 +1,2 @@
+C:\Users\Emre\Desktop\Game\WorldWarTypcoon\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Game\WorldWarTypcoon\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

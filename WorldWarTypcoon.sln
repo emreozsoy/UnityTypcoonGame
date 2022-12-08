@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds", "GoogleMobileAds.csproj", "{A61CAEE0-FFA9-B0CC-A6FD-04C6A99E8C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{3C19AB97-7315-C71D-78AB-FA3A63EC49EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{F5633B26-5BEF-B0D7-CCEB-3425E6787295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds.Editor", "GoogleMobileAds.Editor.csproj", "{DA221567-BD3E-9B80-6E18-4A58C571536D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A61CAEE0-FFA9-B0CC-A6FD-04C6A99E8C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61CAEE0-FFA9-B0CC-A6FD-04C6A99E8C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61CAEE0-FFA9-B0CC-A6FD-04C6A99E8C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61CAEE0-FFA9-B0CC-A6FD-04C6A99E8C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C19AB97-7315-C71D-78AB-FA3A63EC49EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C19AB97-7315-C71D-78AB-FA3A63EC49EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C19AB97-7315-C71D-78AB-FA3A63EC49EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C19AB97-7315-C71D-78AB-FA3A63EC49EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5633B26-5BEF-B0D7-CCEB-3425E6787295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5633B26-5BEF-B0D7-CCEB-3425E6787295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5633B26-5BEF-B0D7-CCEB-3425E6787295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5633B26-5BEF-B0D7-CCEB-3425E6787295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA221567-BD3E-9B80-6E18-4A58C571536D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA221567-BD3E-9B80-6E18-4A58C571536D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA221567-BD3E-9B80-6E18-4A58C571536D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA221567-BD3E-9B80-6E18-4A58C571536D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
